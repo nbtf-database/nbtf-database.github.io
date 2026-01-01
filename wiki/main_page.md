@@ -1,8 +1,31 @@
+
 ---
-redirect_from: "/"
+title: NBTFDatabase Feature Showcase
+category: Documentation
+tags: [example, demo, wiki, nbtf]
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+# NBTFDatabase Feature Showcase
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
+Welcome to the **NBTFDatabase** wiki.  
+This page demonstrates **all common wiki features** used in a professional documentation system.
 
+---
+
+## 📌 Table of Contents
+- [Images](#images)
+- [Tables](#tables)
+- [Lists](#lists)
+- [Categories & Tags](#categories--tags)
+- [Code Blocks](#code-blocks)
+- [Quotes & Callouts](#quotes--callouts)
+- [Internal Links](#internal-links)
+
+---
+
+## 🖼 Images
+
+Images are stored in the `assets/images/` folder.
+
+```md
+![NBTF Logo](../assets/images/logo.png)
